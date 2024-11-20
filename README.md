@@ -17,4 +17,4 @@ Note: You don't have to run the templates before the session (which may not work
 Take 10 minutes to have a look at the basic syntax structure on https://learnxinyminutes.com/docs/kotlin/.
 
 ## Final git pull
-Before the start of the tutorial, ideally do another quick "git pull" command in the terminal to be sure you are on the latest version of the template. 
+Before the start of the tutorial, do another quick "git pull" command in the terminal to be sure you are on the latest version of the template. 
