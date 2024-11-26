@@ -10,10 +10,10 @@ data class Member(
 // TODO
 
 // Sealed class for loan results
-sealed class LoanResult {
-    data class Success(val book: Book) : LoanResult()
-    data class Error(val message: String) : LoanResult()
-}
+//sealed class LoanResult {
+//    data class Success(val book: Book) : LoanResult()
+//    data class Error(val message: String) : LoanResult()
+//}
 
 // Main library class demonstrating various Kotlin features
 class Library {
